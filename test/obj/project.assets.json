@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Namik\\Documents\\Csharp\\startLern\\Csharp.csproj",
-      "projectName": "Csharp",
-      "projectPath": "C:\\Users\\Namik\\Documents\\Csharp\\startLern\\Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Namik\\Documents\\Csharp\\test\\test.csproj",
+      "projectName": "test",
+      "projectPath": "C:\\Users\\Namik\\Documents\\Csharp\\test\\test.csproj",
       "packagesPath": "C:\\Users\\Namik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Namik\\Documents\\Csharp\\startLern\\obj\\",
+      "outputPath": "C:\\Users\\Namik\\Documents\\Csharp\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Namik\\AppData\\Roaming\\NuGet\\NuGet.Config"
